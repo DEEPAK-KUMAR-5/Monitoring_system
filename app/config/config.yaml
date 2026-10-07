@@ -1,0 +1,10 @@
+providers:
+  linode:
+    api_token: ${LINODE_API_TOKEN}
+
+  aws:
+    access_key: ${AWS_ACCESS_KEY}
+    secret_key: ${AWS_SECRET_KEY}
+  digitalocean:
+    api_token: ${DIGITALOCEAN_API_TOKEN}
+    
