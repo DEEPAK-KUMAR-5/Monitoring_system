@@ -241,3 +241,8 @@ __pycache__/
 *.key
 secrets/
 credentials/
+
+# Agent skills
+.agents/skills/
+.claude/skills/
+skills-lock.json
